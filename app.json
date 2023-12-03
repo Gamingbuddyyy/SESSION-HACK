@@ -1,16 +1,16 @@
 {
-    "name": "Destroyers Hack Bot",
-    "description": "A bot CAN DO ANYTHING Deployable on heroku made by CODEX_MADARA",
-    "logo": "https://te.legra.ph/file/a9c788514f8dc6a1b7610.jpg",
+    "name": "Session Hack Bot",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by ⏤͟͞ ≛⃝ 🇼𝔼𝔼𝔻𝕃𝔼𝔸𝔽 ⋆‌⃝💔─⃛͢⋆",
+    "logo": "https://te.legra.ph/file/31ad28193f583391b048c.jpg",
     "keywords": [
         "TELETHON",
-        "madara op",
+        "gaming op",
         "Telegram Bot",
         "piro bolte",
-        "CODEX_MADARA"
+        "GAMINGGGGGG3"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/CODEX_MADARA",
+    "success_url": "https://telegram.dog/GAMINGGGGGG3",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -18,15 +18,15 @@
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": "6a448a1aef78ff8e776227c9ed9b3c18"
+            "value": "0df6b5db8dc71c3672956fe63a958866"
         },
         "SUDOERS": {
             "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
-            "value": "5805639231 5734659617"
+            "value": "6570251736 5129320633"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "22639507"
+            "value": "22704480"
         },
          "MONGO_URL": {
             "description": "MONGO DB URL ",
@@ -34,12 +34,12 @@
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "-1002025766361"
+            "value": "-1001963474655"
           },
       
           "MUST_JOIN": {
-            "description": "FORCE SUBSCRIBE BOT EX - TEAM_DST",
-            "value": "TEAM_DST"
+            "description": "FORCE SUBSCRIBE BOT EX - billaganghh",
+            "value": "billaganghh"
         }
     }
 }
