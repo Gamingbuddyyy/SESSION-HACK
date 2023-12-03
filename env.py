@@ -9,7 +9,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", None)
 SUDOERS = list(map(int, os.getenv("SUDOERS", 0).split()))
 MONGO_URL = os.getenv("MONGO_URL", None)
 LOG_GROUP_ID = os.getenv("LOG_GROUP_ID", None)
-MUST_JOIN = os.getenv("MUST_JOIN", "TEAM_DST")
+MUST_JOIN = os.getenv("MUST_JOIN", "billaganghh")
 DISABLED = os.getenv("DISABLED", "").split()
 
 if not API_ID:
